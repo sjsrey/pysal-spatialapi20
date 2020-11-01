@@ -1,6 +1,7 @@
 # pysal-spatialapi20
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sjsrey/pysal-spatialapi20/main?urlpath=lab)
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sjsrey/pysal-spatialapi20/HEAD)
 
 PySAL Workshop at SpatialAPI20
 
