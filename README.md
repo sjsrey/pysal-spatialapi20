@@ -3,6 +3,10 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sjsrey/pysal-spatialapi20/HEAD)
 
+<p align="center">
+<img height=160 src='figs/readmefigs/spatial_logos.png' >
+</p>
+
 PySAL Workshop at SpatialAPI20
 
 ### Instructors
