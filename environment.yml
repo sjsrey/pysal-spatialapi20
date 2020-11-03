@@ -1,4 +1,4 @@
-name: pysal-workshop
+name: pysal-spatialapi20
 channels:
   - conda-forge
   - defaults
@@ -27,5 +27,6 @@ dependencies:
   - descartes
   - folium
   - cenpy
+  - contextily
   - pip:
-    - contextily
+    - segregation==1.4
